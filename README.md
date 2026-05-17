@@ -110,7 +110,7 @@ Open and run `Supply_Network_Design_Gurobi.ipynb` — all outputs are pre-comput
 
 H. Paul Williams, *Model Building in Mathematical Programming*, 5th Edition.
 
----
+--
 
 ## 👤 Author
 
